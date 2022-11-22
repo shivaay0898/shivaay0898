@@ -12,13 +12,13 @@
 
 	
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shivaay0898&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sukritoberoi&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shivaay0898&theme=tokyonight" />
 </p>
 
 
 
 
-<img src="https://activity-graph.herokuapp.com/graph?username=sukritoberoi&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
+<img src="https://activity-graph.herokuapp.com/graph?username=shivaay0898&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
 
 
 
