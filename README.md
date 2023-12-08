@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **shivaay0898@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1zciSzbqx78KcuSVevqLWb8eXm3aPrQ_c/view?usp=sharing](https://drive.google.com/file/d/1zciSzbqx78KcuSVevqLWb8eXm3aPrQ_c/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/19q7pDXM3oORY1jHszb3P0TpAmTDWObCb/view?usp=sharing](https://drive.google.com/file/d/19q7pDXM3oORY1jHszb3P0TpAmTDWObCb/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
